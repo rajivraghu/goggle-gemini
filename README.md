@@ -2,4 +2,4 @@
 Goggle Gemini Experiments
 
 #Run
-python -m streamlit run app.py
+python -m streamlit run GeminiChatBot.py
